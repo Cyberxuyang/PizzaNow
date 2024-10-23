@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # PizzaNow
-A fast and user-friendly pizza ordering system that makes ordering your favorite pizza quick and hassle-free!
 =======
 # React + Vite
 
